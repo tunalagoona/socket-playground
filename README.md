@@ -1,2 +1,2 @@
 # socket-tutorial
-Building a socket server and client with Python
+Tutorial for building a socket server and client with Python from realpython.com
